@@ -1,5 +1,5 @@
 
-package 洛谷;
+package 经典算法;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;

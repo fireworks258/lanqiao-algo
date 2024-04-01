@@ -1,4 +1,4 @@
-package 洛谷;
+package 经典算法;
 import java.math.BigInteger;
 import java.util.Scanner;
 //1:无需package

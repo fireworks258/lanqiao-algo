@@ -1,4 +1,4 @@
-package 洛谷;
+package 经典算法;
 import java.io.*;
 public class 快速读入 {
 	    // 重点：在洛谷中BufferedReader和StreamTokenizer在同一个程序中只能使用一个，否则会出现不能够正常读取数据的情况

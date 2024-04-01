@@ -1,4 +1,4 @@
-package 洛谷;//p1706/b3623
+package 经典算法;//p1706/b3623
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

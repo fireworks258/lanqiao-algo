@@ -1,4 +1,4 @@
-package 洛谷;
+package 经典算法;
 import java.io.*;
 public class __list和map {
 	static BufferedReader strin=new BufferedReader(new InputStreamReader(System.in));

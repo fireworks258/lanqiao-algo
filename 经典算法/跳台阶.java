@@ -1,4 +1,4 @@
-package 洛谷;
+package 经典算法;
 import java.util.Scanner;
 //1:无需package
 //2: 类名必须Main, 不可修改

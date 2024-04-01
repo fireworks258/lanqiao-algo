@@ -1,4 +1,4 @@
-package 洛谷;
+package 经典算法;
 	import java.util.HashSet;
 	import java.util.Scanner;
 	import java.util.Set;

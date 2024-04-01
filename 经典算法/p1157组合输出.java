@@ -1,4 +1,4 @@
-package 洛谷;
+package 经典算法;
 import java.util.Scanner;
 public class p1157组合输出 {//组合输出
 static void backtrack(int k,int r,int n,int a[]) {

@@ -1,4 +1,4 @@
-package 洛谷;
+package 经典算法;
 
 import java.util.Scanner;
 public class 快速幂算法 {

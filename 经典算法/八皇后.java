@@ -1,4 +1,4 @@
-package 洛谷;
+package 经典算法;
 import java.util.ArrayList;
 import java.util.List;
 public class 八皇后 {
