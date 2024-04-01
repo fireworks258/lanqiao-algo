@@ -1,4 +1,4 @@
-package 洛谷;
+package 蓝桥;
 import java.util.Scanner;
 
 public class lanqiao3522{//欧拉公式+快速幂https://zh.wikipedia.org/zh-cn/%E6%AC%A7%E6%8B%89%E5%87%BD%E6%95%B0

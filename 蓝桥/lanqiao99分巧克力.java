@@ -1,4 +1,4 @@
-package 洛谷;
+package 蓝桥;
 import java.util.*;
 //第一行包含两个整数 N,K 
 //以下 N 行每行包含两个整数 Hi,Wi

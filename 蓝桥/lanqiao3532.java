@@ -1,4 +1,4 @@
-package 洛谷;
+package 蓝桥;
 import java.util.Arrays;
 import java.util.Scanner;
 public class lanqiao3532 {//https://www.lanqiao.cn/problems/3532/learning/

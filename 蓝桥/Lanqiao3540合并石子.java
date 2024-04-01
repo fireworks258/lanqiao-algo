@@ -1,4 +1,4 @@
-package 洛谷;
+package 蓝桥;
 
 import java.util.Scanner;
 
