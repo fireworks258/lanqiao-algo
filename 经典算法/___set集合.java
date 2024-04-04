@@ -1,7 +1,7 @@
 package 经典算法;
-	import java.util.HashSet;
-	import java.util.Scanner;
-	import java.util.Set;
+import java.util.HashSet;
+import java.util.Scanner;
+import java.util.Set;
 public class ___set集合 {
 	public static void main(String[] args) {
 		Scanner scan= new Scanner(System.in);
