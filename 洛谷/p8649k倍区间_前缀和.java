@@ -26,12 +26,12 @@ public class p8649k倍区间_前缀和 {//没搞明白，有待研究
 ////		}
 ///*----------使用同余定理 a%n=x且b%n=x可推得(a-b)%n=0----*/
 //		for (int i = 0; i <=n; i++) {
-//			 ans+=value[(sum[i]%k)]++;
-//		}
-//		System.out.println(ans);
+//			 ans+=value[(sum[i]%k)]++;//这里发生错误，++运算符最后执行，加到ans上时，哈希数组在索引0处的值还是0
+//		}                             //所以要先将sum[0]设为1！！！！！！
+//		System.out.println(ans);      //2024.4.8理论没有错，代码逻辑混淆
 //		scan.close();
 //	}
-	public static void main(String[] args) {
+	public static void main(String[] args) {//正解
 	Scanner scan = new Scanner(System.in);
 	int n=scan.nextInt();
 	int k=scan.nextInt();

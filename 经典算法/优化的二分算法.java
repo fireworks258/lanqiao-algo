@@ -23,7 +23,7 @@ public static void main(String[] args) {
 //		if(a[mid]>n)
 //			r=mid;
 //		else
-//			l=mid+1;
+//			l=mid+1;???
 //	}
 	while(l<r) {
 		int mid=(l+r+1)>>1;
