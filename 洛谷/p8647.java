@@ -10,7 +10,7 @@ public static void main(String[] args) {
 	int k=scan.nextInt();
 	ch=new int[n][2];
 	int max=Integer.MIN_VALUE;
-	for (int i = 0; i <n; i++) {
+	for (int i = 0; i <n; i++) { 
 		max=(ch[i][0]=scan.nextInt())>max?ch[i][0]:max;
 		max=(ch[i][1]=scan.nextInt())>max?ch[i][1]:max;
 	}

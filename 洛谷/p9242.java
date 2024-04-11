@@ -23,7 +23,7 @@ public static void main(String[] args) {
 	//System.out.println(Arrays.toString(dp));
 	Arrays.sort(dp);
 	//System.out.println(Arrays.toString(dp));
-	System.out.println(n-dp[9]);
+	System.out.println(n-dp[9]);//n-减去最长子序列
 	scan.close();
 }
 }
