@@ -15,13 +15,13 @@ import java.util.Scanner;
 public class 二分查找_必考_最终改进的二分算法 {
 public static void main(String[] args) {
 	Scanner scan = new Scanner(System.in);
-	int arr[]=new int[]{1,2,4,5,6};
-	int left=0,right=4;
-	int left1=0,right1=4;
+	int arr[]=new int[]{1,2,3,4,5,6};
+	int left=0,right=5;
+	int left1=0,right1=5;
 	int k=3;//要查找的值
 	while(left<right) {//查找上界
 		int mid=(left+right)>>1;
-		if(arr[mid]>=k) {
+		if(arr[mid]>=k) {//界限可变
 			right=mid;
 		}
 		else {
